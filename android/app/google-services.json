@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381163347712",
+    "project_id": "titok-tutorial",
+    "storage_bucket": "titok-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381163347712:android:e1970477c72cec97b89de5",
+        "android_client_info": {
+          "package_name": "com.example.titok_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381163347712-fumhqmn6ik93becsvtg7evugc59du328.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8XS416YYEoS1HAuIDPfhMzJqNIJDSclM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381163347712-fumhqmn6ik93becsvtg7evugc59du328.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
